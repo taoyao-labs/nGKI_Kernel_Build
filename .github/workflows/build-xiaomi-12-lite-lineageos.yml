@@ -13,7 +13,7 @@ env:
   EXTRA_CMDS : "LLVM=1 LLVM_IAS=1"
 
   KERNEL_SOURCE : "https://github.com/taoyao-labs/kernel_xiaomi_taoyao.git"
-  KERNEL_BRANCH : "lineage-24.0-upstream"
+  KERNEL_BRANCH : "lineage-24.0"
 
   CLANG_SOURCE : "https://github.com/bachnxuan/aosp_clang_mirror/releases/download/clang-r563880c-13989888/clang-r563880c.tar.gz"
   CLANG_BRANCH : "lineage-20.0"
